@@ -1,5 +1,6 @@
 public class AssemblyLine implements IAssemblyLine {
 
+    private Product product;
     private LineStep firstStep;
     private LineStep secondStep;
     private LineStep thirdStep;
@@ -15,7 +16,8 @@ public class AssemblyLine implements IAssemblyLine {
         product.installFirstPart(firstStep.buildProductPart(firstPartName));
         product.installSecondPart(secondStep.buildProductPart(secondPartName));
         product.installThirdPart(thirdStep.buildProductPart(thirdPartName));
-        System.out.println("The laptop has been assempled");
-        return new Product();
+        System.out.println("The laptop has been assembled");
+        this.product=product;
+        return this.product;
     }
 }
