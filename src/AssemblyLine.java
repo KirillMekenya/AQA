@@ -13,11 +13,11 @@ public class AssemblyLine implements IAssemblyLine {
 
     @Override
     public Product assembleProduct(Product product, String firstPartName, String secondPartName, String thirdPartName) {
-        product.installFirstPart(firstStep.buildProductPart(firstPartName));
-        product.installSecondPart(secondStep.buildProductPart(secondPartName));
-        product.installThirdPart(thirdStep.buildProductPart(thirdPartName));
-        System.out.println("The laptop has been assembled");
         this.product=product;
+        this.product.installFirstPart(firstStep.buildProductPart(firstPartName));
+        this.product.installSecondPart(secondStep.buildProductPart(secondPartName));
+        this.product.installThirdPart(thirdStep.buildProductPart(thirdPartName));
+        System.out.println("The "+product.getProductName()+" has been assembled");
         return this.product;
     }
 }
