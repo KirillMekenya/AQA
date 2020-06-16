@@ -1,6 +1,6 @@
 
-1) css tut-by: div[class="news-entry small  nip"] span[class="entry-head _title"]
-   xpath tut-by: //div[@class='news-entry small  nip']//span[@class='entry-head _title']  
+1) css tut-by: #geo_news_block .l-cols > div:nth-child(2) div[class^="news-entry small"]:nth-child(2)
+   xpath tut-by: ((//div[@id='geo_news_block']//div[@class="news-section" ])[2]//span[@class='entry-head _title'])[2]  
 2) css: tbody tr:nth-child(6) td:nth-child(5)                     xpath: //tbody/tr[6]/td[5]
 3) css_36/3: div[id="sibling-36.2"]                               xpath_36_3: //div[@id="sibling-36.2"]
    css_35_32: tr.row-35 td.column-32                              xpath_35_32: //tr[@class="row-35"]/td[@class="column-32"]
