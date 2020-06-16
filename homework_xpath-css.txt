@@ -1,5 +1,5 @@
 
-1) css tut-by: tbody tr:nth-child(6) td:nth-child(5)
+1) css tut-by: div[class="news-entry small  nip"] span[class="entry-head _title"]
    xpath tut-by: //div[@class='news-entry small  nip']//span[@class='entry-head _title']  
 2) css: tbody tr:nth-child(6) td:nth-child(5)                     xpath: //tbody/tr[6]/td[5]
 3) css_36/3: div[id="sibling-36.2"]                               xpath_36_3: //div[@id="sibling-36.2"]
