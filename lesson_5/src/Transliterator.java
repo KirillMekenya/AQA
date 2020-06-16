@@ -47,6 +47,7 @@ public class Transliterator {
         this.characterMap.put('!', "!");
         this.characterMap.put('?', "?");
         this.characterMap.put('-', "-");
+        this.characterMap.put(':', ":");
 
         return this.characterMap;
     }

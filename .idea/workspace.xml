@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42105376-0bbb-43d9-88a4-b9742d01f452" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AQA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/AssemblyLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/IAssemblyLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/ILineStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/IProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/IProductPart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/LineStep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AQA/ProductPart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssemblyLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IAssemblyLine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ILineStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IProductPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LineStep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProductPart.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Kirill_Senla\AQA\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bZgavDtLusmlEjJgmGUuOYtK10" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="AQA" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42105376-0bbb-43d9-88a4-b9742d01f452" name="Default Changelist" comment="" />
+      <created>1588845096773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588845096773</updated>
+    </task>
+    <task id="LOCAL-00001" summary="edited AssemblyLine class">
+      <created>1588870013767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588870013767</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added constructor with Product name">
+      <created>1588929882444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588929882444</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edited AssemblyLine class" />
+    <MESSAGE value="added constructor with Product name" />
+    <option name="LAST_COMMIT_MESSAGE" value="added constructor with Product name" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1588929715126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588929715126" />
+    <state x="705" y="119" key="CommitChangelistDialog2" timestamp="1588929881719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="705" y="119" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588929881719" />
+    <state x="739" y="261" key="FileChooserDialogImpl" timestamp="1589289476027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1589289476027" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1589289684157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589289684157" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1589289684157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589289684157" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1589289684156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589289684156" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1589289684157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589289684157" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1589289418448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589289418448" />
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1588929885910">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588929885910" />
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588848322325">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1588848322325" />
+    <state x="342" y="140" key="new project wizard" timestamp="1589289682129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589289682129" />
+  </component>
+</project>
